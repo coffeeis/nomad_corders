@@ -1,1 +1,1 @@
-# nomad_corders
+# nomad_corders_chrom_app
